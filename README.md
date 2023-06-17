@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bbek10
-- 👀 I’m interested in WebDesigning, JavaScript, ReactJS, Node.js
-- 🌱 I’m currently learning ReactJS, ReactNative
-- 💞️ I’m looking to collaborate on intern
+- 👀 I’m interested in WebDesigning, JavaScript, ReactJS, Node.js, Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on working as freelancer
 - 📫 How to reach me : Insta @bbek10 Email: bibekmanandhar2@gmail.com
 
 <!---
