@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bbek10
 - 👀 I’m interested in WebDesigning, JavaScript, ReactJS, Node.js, Python
-- 🌱 I’m currently learning Python and DSA with JS
+- 🌱 I’m currently learning Python and DSA with JS, and Selenium for automation and SQL
 - 💞️ I’m looking to collaborate on working as freelancer
 - 📫 How to reach me : Insta @bbek10 Email: bibekmanandhar2@gmail.com
 
