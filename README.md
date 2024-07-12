@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bbek10
   
-- 👀 I’m interested in WebDesigning, JavaScript, ReactJS, Node.js, Python and QA
+- 👀 I’m interested in WebDesigning, JavaScript, ReactJS, Node.js, Python and QA Automation with Selenium
   
 - 🌱 I’m currently learning Python and DSA with JS, and Selenium for automation and SQL
   
