@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Bbek10
   
-- 👀 I’m interested in WebDesigning, JavaScript, ReactJS, Node.js, Python and QA Automation with Selenium
+- 👀 I’m interested in web designing, JavaScript, ReactJS, Node.js, Python, and QA Automation with Selenium
   
-- 🌱 I’m currently learning Python and DSA with JS, and Selenium for automation and SQL
+- 🌱 I’m currently learning Python, JS, and Selenium for automation and SQL
   
-- 💞️ I’m looking to collaborate on working as QA
+- 💞️ I’m currently joined as an Apprentice in AWS Cloud Computing: Solutions Architect Associate.
   
 - 📫 How to reach me: bibekmanandhar2@gmail.com
 
