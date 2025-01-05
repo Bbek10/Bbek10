@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning Python, JS, and Selenium for automation and SQL with DevOps on side.
   
-- 💞️ I’m currently joined as an Project Management Trainee at Outside. Recently certified by AWS Cloud Architect Associate SAA-C03
+- 💞️ I’m currently joined as an Project Coordinator at Outside. Certified AWS Cloud Architect Associate SAA-C03
   
 - 📫 How to reach me: bibekmanandhar2@gmail.com
 
